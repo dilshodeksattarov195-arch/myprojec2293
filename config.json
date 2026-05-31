@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsrocess",
+        "uuid": 11900670,
+        "checksum": "07aeri"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
